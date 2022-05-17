@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome!
 
-Last Updated: 03/04/22
+Last Updated: 17/05/22
 
 - (He) Fajar | فَجْر‎ (fajr) | Dawn
 - 22 years old
