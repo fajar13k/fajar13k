@@ -10,7 +10,7 @@ Last Updated: 17/05/22
 ## 🔬 Working on
 
 - **Telkom DBT**: Frontend Developer (Product Standarization Specialization)
-- **Sistem Perizinan Pesawat Udara Tanpa Awak**: Frontend Developer
+- **[Legion](https://legion.telkom.design)**: Frontend Developer
 - **[GTSosu](https://github.com/cory2067/gtsosu)**: Frontend Contributor
 - **[osu!wiki](https://github.com/ppy/osu-wiki/)**: Wiki Maintainer & (ID) Localisation Contributor
 - Personal Site (Ongoing)
