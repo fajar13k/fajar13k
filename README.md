@@ -19,8 +19,6 @@ Last Updated: 17/05/22
 
 ![fajar13k's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajar13k&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22)
 
-![fajar13k's Github languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajar13k&layout=compact&langs_count=8&theme=algolia)
-
 ## 💡 Stacks
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
