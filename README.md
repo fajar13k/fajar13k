@@ -2,7 +2,7 @@
 
 Last Updated: 17/05/22
 
-- (He) Fajar | فَجْر‎ (fajr) | Dawn
+- Fajar | فَجْر‎ (fajr) | Dawn
 - 22 years old
 - Frontend Developer
 - 🇮🇩 Indonesian
